@@ -1,4 +1,13 @@
 /**
+here the val and rom is the arrays and in the function while is inside the for loop where the answer will get:
+
+Example:
+Input: s = "III"
+Output: 3
+Explanation: III = 3.
+*/
+
+/**
  * @param {number} num
  * @return {string}
  */
